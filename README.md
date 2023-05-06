@@ -10,6 +10,15 @@ Model training data and Ipython notebook
 ```
 pip install jupyterlab
 ```
+
+## Install dependencies
+```
+pip install pandas
+pip install seaborn
+pip install scikit-learn
+pip install matplotlib
+```
+
 ## Launch jupyter lab
 ```
 cd payloadClassifier
